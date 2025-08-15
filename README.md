@@ -1,57 +1,29 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Ahmad Riaz</h1>
-<h3 align="center">💻 Full Stack Web Developer | PHP | Laravel | CodeIgniter | MySQL</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmadriaz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
+# About Me
 
----
+Hi, I'm Yunwei, a passionate learner and software developer from Hangzhou, China. Welcome to my GitHub profile!
 
-### 🌟 About Me
-- 🎓 **Software Engineering Student**
-- 💼 Passionate about **Web Development** and **API Integration**
-- 🚀 Skilled in both **Frontend** and **Backend**
-- 🌱 Currently learning **Advanced React & Java**
-- 💬 Ask me about **PHP, Laravel, CodeIgniter, APIs, MySQL**
-- 📫 Reach me at: **a42unknown@gmail.com**
+- 🏢 I currently work at eunomia-bpf to create eBPF-based solutions for the cloud
+- 🌍 Find me on the web: https://github.com/42webok)
+- ✉️ Contact me: To be announced
+- 📖 I love exploring new technologies and applying them to solve real-world problems
 
----
+## 🙋‍♂️ A bit more about me
 
-### 🛠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,php,mysql,laravel,codeigniter,react,java,wordpress&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ajax&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=gsap&theme=dark" />
-</p>
+I started my coding journey in 2017, and since then, I have been dedicated to expanding my knowledge and skills. I believe that having a curious and open mind allows me to continue learning and improving.
 
----
+## 🏆 Achievements
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadriaz&show_icons=true&theme=tokyonight" alt="github stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadriaz&theme=tokyonight" alt="streak stats" height="165" />
-</p>
+Here are some notable achievements and contributions:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yunwei37)](https://github.com/yunwei37)
+
+These achievements are a testament to my dedication and passion for coding.
+
+
+
+Let's collaborate, share ideas, and make meaningful contributions to the world of technology!
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmadriaz&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmad-riaz-73ba362b0/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
-  </a>
-  <a href="mailto:your.a42unknown@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
-  </a>
-</p>
-
----
-
-💡 *"Code is like humor. When you have to explain it, it’s bad."*
+Thank you for taking the time to visit my GitHub profile and read this README. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or opportunities for collaboration. Together, we can make a positive impact in the world of software development!
